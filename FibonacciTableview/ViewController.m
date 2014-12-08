@@ -12,7 +12,6 @@
 
 @property (strong, nonatomic)UITableView *tableView;
 @property (strong, nonatomic)NSMutableArray *tableDataArray;
-@property (strong, nonatomic)NSOperationQueue *queue;
 
 @end
 
